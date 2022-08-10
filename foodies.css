@@ -1,0 +1,101 @@
+
+#two{
+          background-color: whitesmoke;
+          border: 1px solid black;
+          margin: 10px;
+          width: 1300px;
+}
+#two #c2 #sec2{
+          background-color: white;
+          width: 100%;
+         
+          display: inline-flex;
+}
+.row{
+          border: 2px solid yellow;
+          display: inline-flex;
+          border: hidden;
+}
+.col-6, .col-7,.col-1,.col-2,.col-3,.col-4,.col-5,.col-8{
+          border:2px solid green;
+          display: inline-flex;
+          border: hidden;
+}
+#c2 #sec2 .main{
+          position: relative;
+          top: 30px;
+          left: 30px;
+          font-weight: bolder;
+
+}
+#c2 #sec2 #login{
+          position: relative;
+          left: 470px;
+          top: -30px;
+          height: 40px;
+          margin-top: 10px;
+}
+#c2 #sec2 #login a{
+          text-decoration: none;
+          
+}
+#c2 #sec2 #login a:hover{
+          color: orangered;
+}
+#c2 #sec2 #signup{
+          position: relative;
+          left: 500px;
+          top: -30px;
+          height: 40px;
+          margin-top: 10px;
+}
+#c2 #sec2 #signup a{
+          text-decoration: none;
+          color: white;
+}
+#c2 #sec2 #hun{
+          position: relative;
+          left: 30px;
+          top: -30px;
+          font-size: 50px;
+          padding: 10px;
+}#c2 #sec2 .favour #fav{
+         position: relative;
+         top: 390px;
+}
+#c2 #sec2 #loc{
+          position: relative;
+          left: 30px;
+          top: -60px;
+          padding-top: 50px;
+}
+#c2 #sec2 #loc .ld{
+          width: 500px;
+          height: 60px;
+          border-radius: 10px;
+
+}
+#c2 #sec2 #loc #locate{
+          position: relative;
+          left: 390px;
+          top: -47px;
+}
+#c2 #sec2 #loc #locate a{
+          text-decoration: none;
+}
+/* ================================================================================== */
+
+#one #c2 #cim1{
+          position: relative;
+          left: 140px;
+          overflow: hidden;
+}
+
+/* ================================================================================== */
+
+#three #c3 ol li {
+          list-style: none;
+}
+#three #c3 ol li a{
+          text-decoration: none;
+}
